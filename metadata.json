@@ -1,0 +1,6 @@
+{
+  "name": "BekuMart - POS & Manajemen Stok Frozen Food",
+  "description": "Aplikasi kasir POS toko frozen food dengan manajemen stok otomatis, pelacakan tanggal kadaluwarsa & freezer, laporan harian real-time, dan dashboard pemilik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
